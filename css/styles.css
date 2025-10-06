@@ -25,3 +25,16 @@ body{
     color:#fff;
     margin-top: 40px;
 }
+
+@media(max-width:600px){
+    .header{
+        padding: 10px;
+    }
+    .hero{
+        padding: 20px;
+        font-size: 0.9rem;
+    }
+    img{
+        width:120px;
+    }
+}
